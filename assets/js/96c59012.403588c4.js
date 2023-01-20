@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomat_openapi_docs=self.webpackChunkautomat_openapi_docs||[]).push([[2924],{75194:t=>{t.exports=JSON.parse('{"title":"Automat","description":"Automat API docs.","slug":"/category/automat","permalink":"/docs/category/automat","navigation":{"next":{"title":"biolink","permalink":"/docs/automat/biolink"}}}')}}]);
