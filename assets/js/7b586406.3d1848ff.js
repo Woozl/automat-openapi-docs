@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomat_openapi_docs=self.webpackChunkautomat_openapi_docs||[]).push([[9510],{47428:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/automat-openapi-docs/blog/tags/facebook","allTagsPath":"/automat-openapi-docs/blog/tags","count":1}')}}]);
